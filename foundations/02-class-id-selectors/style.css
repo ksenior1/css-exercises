@@ -1,0 +1,13 @@
+.odd{
+    background-color: #f46dd5;
+    font: 'Verdana' 'DejaVu Sans' 'sans-serif';
+}
+
+.bigger{
+    font-size: 24px;
+}
+
+.neon-bold{
+    font-weight: bold;
+    background-color:rgb(169, 235, 146);
+}
