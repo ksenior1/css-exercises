@@ -1,0 +1,13 @@
+.midnightBlack{
+    background-color: black;
+    color: white;
+}
+
+.mellowYellow{
+    background-color: yellow;
+}
+
+.midnightBlack, .mellowYellow{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
